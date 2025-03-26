@@ -1,28 +1,6 @@
 ### DOCUMENTATION ###
 
-#D.E.R.B stands for Data Encoded to Randomized Base
-
-#This file will contain the complete encoder and decoder package along with a GUI
-
-#The GUI will contain these features:
-# - Choose input file
-# - Choose location and name for output file
-# - Choose whether to encode or decode the input file
-
-#Steps to the Encoder:
-# - Open Input Data
-# - Go line by line and do the following:
-#    - Run str.isascii() to check if there are any non-ascii characters
-#    - Append each character in the line to a main list so list comprehension can be used
-# - Convert each character to its ascii decimal code
-# - Add 0's behind the number if the length is less than 3
-# - Apply a left shift on each number --> XYZ becomes YZX
-# - Convert new number to binary
-# - Generate 2 numbers between 1 and 6. These will make up our randomized base.
-# - Convert each number to the randomized base
-# - Write each character to the output file
-
-
+# D.E.R.B stands for Data Encoded to Randomized Base
 
 ### BASE CONVERTER ###
 
