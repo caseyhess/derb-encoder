@@ -73,8 +73,6 @@ def base_to_dec(num, base):
     # A set of 66 ascii characters for base conversion
     chr_set = [chr(i) for i in range(33, 99)]
     
-    
-    
     ## SANITY CHECKS ##
     
     # Sanity Check - checks that base is an integer or string.
