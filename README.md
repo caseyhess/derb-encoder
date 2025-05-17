@@ -11,7 +11,7 @@ This is a python app packaged as an executable that contains an encoder and deco
 - Open Source!
 
 ## Setup
-Download DERB.exe from the latest release and run it!
+Download DERB.exe from the [latest release](https://github.com/caseyhess/D.E.R.B./releases) and run it!
 
 If you would like to run the python file itself that is also available.
 
