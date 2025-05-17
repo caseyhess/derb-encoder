@@ -23,3 +23,7 @@ Once you run DERB.exe you will be greeted by the GUI with a few different button
 - The `Decode` button will do the same as above but instead of encoding the input file, it will decode it, writing to a new file in the output directory.
 - The `Quit` button simply closes the application.
 ### NOTE: Currently D.E.R.B. only supports input .txt files and the characters inside need to be within the [ASCII 128](https://www.ascii-code.com/) character set. This will include all letters A-Z, numbers 0-9, and most common symbols. Click the link if you want to see the full list of characters in the ASCII 128 character set.
+
+## License
+Full license available [here](https://github.com/caseyhess/D.E.R.B./blob/main/LICENSE)
+This project is licensed under the terms of the **MIT** license.
