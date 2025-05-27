@@ -1,5 +1,5 @@
-# D.E.R.B. - Data Encoded to Randomized Base
-This is a python app packaged as an executable that contains an encoder and decoder using the D.E.R.B. encryption method.
+# DERB - Data Encoded to Randomized Base
+DERB is a python app packaged as an executable that contains an encoder and decoder using the DERB encryption method.
 
 ![GUI Preview](https://i.imgur.com/gTmx88N.png)
 
@@ -11,7 +11,7 @@ This is a python app packaged as an executable that contains an encoder and deco
 - Open Source!
 
 ## Setup
-Download DERB.exe from the [latest release](https://github.com/caseyhess/D.E.R.B./releases) and run it!
+Download DERB.exe from the [latest release](https://github.com/caseyhess/derb/releases) and run it!
 
 If you would like to run the python file itself that is also available.
 
@@ -25,5 +25,5 @@ Once you run DERB.exe you will be greeted by the GUI with a few different button
 ### NOTE: Currently D.E.R.B. only supports input .txt files and the characters inside need to be within the [ASCII 128](https://www.ascii-code.com/) character set. This will include all letters A-Z, numbers 0-9, and most common symbols. Click the link if you want to see the full list of characters in the ASCII 128 character set.
 
 ## License
-#### Full license available [here](https://github.com/caseyhess/D.E.R.B./blob/main/LICENSE)
+#### Full license available [here](https://github.com/caseyhess/derb/blob/main/LICENSE)
 #### This project is licensed under the terms of the **MIT** license.
